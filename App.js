@@ -1,5 +1,3 @@
-// 
-
 import React, { useState } from 'react';
 import {
   View,
@@ -8,6 +6,7 @@ import {
   TouchableOpacity,
   StyleSheet
 } from 'react-native';
+import HelloBox from './components/HelloBox';
 
 export default function App() {
   const [phone, setPhone] = useState('');
@@ -45,6 +44,7 @@ export default function App() {
       >
         <Text style={styles.buttonText}>Tiếp tục</Text>
       </TouchableOpacity>
+      <HelloBox></HelloBox>
     </View>
   );
 }

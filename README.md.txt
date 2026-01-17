@@ -5,11 +5,14 @@
 - Mã sinh viên: 23810310232
 
 ## Mô tả
-Hoàn thiện bài tập Core Components cuối buổi 2
+Hoàn thiện bài tập cuối buổi 2
+Hoàn thiện bài tập cuối buổi 3
 
 ## Công nghệ sử dụng
 - React Native CLI
 - Android Emulator
 
 ## Kết quả chạy ứng dụng
-![Screenshot](screenshots/app.png)
+![Screenshot]
+(screenshots/app.png)
+(screenshots/app1.png)
